@@ -5,7 +5,7 @@ Incubator Hub.
 I have learnt quite a number of things ranging from MS Excel to SQL and now portfolio
 building
 
-## Project Topic: E Commerce sales Analysis
+## Project Topic: E Commerce Sales Analysis
 
 ### Project Overview
 
@@ -19,4 +19,18 @@ building
 
 - SQL Server (For Querying and Analysis)
 - Power BI (For creating a report)
-- Ms Power Point (For Presentation)  
+- Ms Power Point (For Presentation)
+
+### Data Analysis
+
+~~~~ SQL
+
+SELECT A,B,C
+WHERE A > 15
+
+
+
+
+
+
+
