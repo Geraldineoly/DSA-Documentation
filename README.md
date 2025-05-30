@@ -29,6 +29,15 @@ SELECT A,B,C
 WHERE A > 15
 
 
+![Screenshot_20250530_144504_Chrome](https://github.com/user-attachments/assets/a2416478-6c16-4352-88cb-dedfeefb7712)
+
+
+![Screenshot_20250530_144521_Chrome](https://github.com/user-attachments/assets/bdd59643-b9b6-4e35-9852-e65773a5d730)
+ 
+
+
+
+
 
 
 
